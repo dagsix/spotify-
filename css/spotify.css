@@ -1,0 +1,121 @@
+/*
+CSS for WDDM 122 
+Homework Assignment #1
+*/
+html,
+* {
+    font-family: 'Montserrat', sans-serif;
+    /* font-family: Circular,Helvetica,Arial,sans-serif; */
+}
+
+.navbar {
+    padding-top: 15px;
+    background-color: #73c4fb;
+    font-size: medium;
+}
+
+.button {
+    padding: 14px 56px 21px;
+    /* padding: 19px 56px 21px; */
+    margin: 24px 0;
+    width: 284px;
+    height: 56px;
+    font-weight: large;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+.navbar-item {
+    font-weight: bold;
+    color: white;
+}
+
+.container {
+    background-color: #73c4fb;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.bluebg {
+    background-color: #73c4fb;
+
+}
+
+#logo-section {
+    background-color: #73c4fb;
+}
+
+.dancer {
+    background-image: url('../img/premium_dancer.png');
+    /* 519 px */
+    background-color: #73c4fb;
+    background-position: right bottom -20px;
+    background-repeat: no-repeat;
+    min-height: 568px;
+    /* 568 */
+    padding-top: 230px;
+    /* 210 */
+}
+
+.premium {
+    background-color: #ffffff;
+    min-height: 100px;
+
+}
+
+.columnformat {
+    background-repeat: no-repeat;
+    background-size: 175px 175px;
+    background-position: center 5px;
+    height: 320px;
+    padding-top: 185px;
+}
+
+.whygo {
+    min-height: 100px;
+}
+
+.one {
+    background-image: url('../img/benefits-download.svg');
+
+}
+
+.two {
+    background-image: url('../img/benefits-no-ads.svg');
+}
+
+.three {
+    background-image: url('../img/benefits-play.svg');
+
+}
+
+.four {
+    background-image: url('../img/benefits-skip.svg');
+}
+
+h1 {
+    font-size: 5.0em;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 3.0em;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: x-large;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: medium;
+}
+
+.white-text {
+    color: white;
+}
+
+.black-text {
+    color: black;
+}
